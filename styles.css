@@ -1,10 +1,10 @@
 body{
-    background: grey;
+    background: green;
     font-family: Arial, Helvetica, sans-serif;
 
 }
 
 h1{
-    color: green;
+    color: gray;
     text-align:center;
 }
