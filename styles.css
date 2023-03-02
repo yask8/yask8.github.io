@@ -4,6 +4,17 @@ body{
 
 }
 
+.assignment{
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    background: darkolivegreen;
+}
+
+.assignment img{
+    width: 200px;
+    padding: 10px;
+}
 h1{
     color: darkolivegreen;
     text-align:center;
