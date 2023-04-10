@@ -15,6 +15,7 @@ body{
     margin: 10px;
     padding: 20px 10px;
     background: lightgoldenrodyellow;
+    border-radius: 5px;
 }
 
 .assignment img{
@@ -22,11 +23,28 @@ body{
     padding: 10px;
     display:block;
     margin: auto;
+    border: 4px solid darkolivegreen;
+    border-radius: 5px;
+}
+.assignment img:hover{
+    border: 4px solid goldenrod;
 }
 h1{
     color: darkolivegreen;
     text-align:center;
 }
+h1:hover{
+    color: goldenrod;
+}
 h2{
     text-align:center;
+}
+h2:hover{
+    color: goldenrod;
+}
+a{
+    text-decoration: none;
+}
+a.hover{
+    color: goldenrod;
 }
